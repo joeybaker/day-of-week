@@ -1,23 +1,23 @@
+#  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]
+
+Returns an number 0-6 of the day of the week from a date. Is timezone aware.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]](#!npm-versionnpm-imagenpm-url-!build-statustravis-imagetravis-url-!dependency-statusdaviddm-urldaviddm-image)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Methods](#methods)
-    - [get `(<Date> date[, <String> sourceTimezone[, <String> destinationTimezone]])`](#get-date-date-string-sourcetimezone-string-destinationtimezone)
-      - [Arguments](#arguments)
-  - [Tests](#tests)
-  - [Developing](#developing)
-    - [Requirements](#requirements)
-  - [License](#license)
+- [Install](#install)
+- [Usage](#usage)
+- [Methods](#methods)
+  - [get `(<Date> date[, <String> sourceTimezone[, <String> destinationTimezone]])`](#get-date-date-string-sourcetimezone-string-destinationtimezone)
+    - [Arguments](#arguments)
+- [Tests](#tests)
+- [Developing](#developing)
+  - [Requirements](#requirements)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-#  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]
-
-Returns an number 0-6 of the day of the week from a date. Is timezone aware.
 
 ## Install
 
