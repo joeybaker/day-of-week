@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "day-of-week",
   "description": "Returns an number 0-6 of the day of the week from a date. Is timezone aware.",
   "author": {
