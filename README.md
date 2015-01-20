@@ -60,7 +60,7 @@ _NOTE: you might need to `sudo ln -s /usr/local/bin/node /usr/bin/node` to ensur
 
 ## License
 
-Artistic © [Joey Baker](https://byjoeybaker.com)
+Artistic 2.0 © [Joey Baker](https://byjoeybaker.com)
 
 
 [npm-url]: https://npmjs.org/package/day-of-week
