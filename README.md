@@ -58,7 +58,6 @@ _NOTE: you might need to `sudo ln -s /usr/local/bin/node /usr/bin/node` to ensur
 * **npm > 2.0.0** So that passing args to a npm script will work. `npm i -g npm`
 * **git > 1.8.3** So that `git push --follow-tags` will work. `brew install git`
 
-
 ## License
 
 Artistic © [Joey Baker](https://byjoeybaker.com)
