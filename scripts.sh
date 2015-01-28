@@ -44,7 +44,7 @@ function find_changelog_file(){
 }
 
 function find_last_git_tag(){
-  echo $(git tag | tail -n 1)
+  echo $(git tag -l | sort -V | tail -n 1)
 }
 
 # based on https://github.com/tj/git-extras/blob/master/bin/git-changelog
@@ -92,5 +92,5 @@ function npm_release(){
     version="$1"
   fi
 
-  npm version $version && generate_git_changelog && git_ammend_tag && npm publish
+  npm version $version && generate_git_changelog && git_ammend_tag && npm run gitPush && npm publish
 }
